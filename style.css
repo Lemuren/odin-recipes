@@ -51,6 +51,10 @@ a {
     background-color: #dddddd;
 }
 
+.recipe-link:hover img {
+    filter: saturate(115%);
+}
+
 .recipe-link img {
     height: 100%;
     width: 266px;
