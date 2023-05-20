@@ -11,6 +11,11 @@ body {
     padding-top: 5px;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 
 h1 {
     background-color: #1b1b1b;
